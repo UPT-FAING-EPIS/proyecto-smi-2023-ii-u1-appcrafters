@@ -1,5 +1,5 @@
-<h1><strong>PROYECTO DE SOLUCIONES MOVILES</strong></h1>
 ## INTEGRANTES
+
 - Chambilla Mardínez, Renato Eduardo - 2020066918.<br>
 - Corrales Solis, Moisés Alessandro - 2020067579.<br>
 - Medina López, Marcelo José - 2020066917.<br>
