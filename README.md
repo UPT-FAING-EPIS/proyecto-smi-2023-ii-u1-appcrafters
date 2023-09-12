@@ -11,4 +11,21 @@
 - **PLAN A: Sistema de Control de Iluminacion IOT**.<br>
 Es una solución tecnológica que utiliza dispositivos conectados a Internet para gestionar y controlar la iluminación en un entorno específico, como un edificio, una casa o una instalación comercial.
 - **PLAN B: Sistema de Control de Humo y Gas**.<br>
+Es una solución diseñada para detectar, monitorear y controlar la presencia de humo y gases potencialmente peligrosos en un entorno específico, como un edificio, una fábrica o una instalación industrial.
+
+## HERRAMIENTAS
+
+| SOFTWARE  | 
+| ------------- |
+|Visual Studio con MAUI
+|Plataforma de Nube
+|Herramientas de Programación y Depuración
+|Herramientas para Desarrollo Móvil
+|GitHub
+
+| HARDWARE  | 
+| ------------- |
+|ESP32 Development Board
+|Sensores y componentes varios
+
 
