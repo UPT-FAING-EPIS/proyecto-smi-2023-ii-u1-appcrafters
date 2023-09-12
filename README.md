@@ -8,8 +8,7 @@
 
 ## POSIBLES IDEAS DE PROYECTO
 
-- Detector de Humo y Gas.<br>
-- Medición de Consumo de Energía.<br>
-- Sistema de Riego Automatizado.<br>
-- Sistema de Monitoreo de Calidad del Aire.<br>
+- **PLAN A: Sistema de Control de Iluminacion IOT**.<br>
+Es una solución tecnológica que utiliza dispositivos conectados a Internet para gestionar y controlar la iluminación en un entorno específico, como un edificio, una casa o una instalación comercial.
+- **PLAN B: Sistema de Control de Humo y Gas**.<br>
 
