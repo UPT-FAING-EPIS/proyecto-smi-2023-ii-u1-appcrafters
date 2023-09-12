@@ -1,5 +1,4 @@
 <h1><strong>PROYECTO DE SOLUCIONES MOVILES</strong></h1>
-<hr>
 <h1><strong>INTEGRANTES</strong></h1>
 <hr>
 Chambilla Mardínez, Renato Eduardo - 2020066918.
