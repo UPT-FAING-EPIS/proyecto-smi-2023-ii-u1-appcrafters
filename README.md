@@ -1,2 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/1uTWdk-4)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11628165&assignment_repo_type=AssignmentRepo)
+<h1>PROYECTO DE SOLUCIONES MOVILES</h1>
+hr
+<h1>INTEGRANTES</h1>
+<hr>
+Chambilla Mardínez, Renato Eduardo - 2020066918.
+Corrales Solis, Moisés Alessandro - 2020067579.
+Medina López, Marcelo José - 2020066917.
+Valle Bustamante, Gustavo Alonso - 2020066916.
+Viveros Blanco, Farley Rodrigo Eduardo - 2020066896
+<h1>POSIBLES IDEAS DE PROYECTO</h1>
+<hr>
+Detector de Humo y Gas.
+Medición de Consumo de Energía.
+Sistema de Riego Automatizado.
+Sistema de Monitoreo de Calidad del Aire.
