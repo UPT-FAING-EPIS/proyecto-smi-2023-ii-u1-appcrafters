@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\renat\\proyecto_moviles\\AppEspLamp\\AppEspLamp.csproj": {}
+    "c:\\Users\\DELL\\Downloads\\proyecto-smi-2023-ii-u1-appcrafters-main\\AppEspLamp\\AppEspLamp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\renat\\proyecto_moviles\\AppEspLamp\\AppEspLamp.csproj": {
+    "c:\\Users\\DELL\\Downloads\\proyecto-smi-2023-ii-u1-appcrafters-main\\AppEspLamp\\AppEspLamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\renat\\proyecto_moviles\\AppEspLamp\\AppEspLamp.csproj",
+        "projectUniqueName": "c:\\Users\\DELL\\Downloads\\proyecto-smi-2023-ii-u1-appcrafters-main\\AppEspLamp\\AppEspLamp.csproj",
         "projectName": "AppEspLamp",
-        "projectPath": "c:\\Users\\renat\\proyecto_moviles\\AppEspLamp\\AppEspLamp.csproj",
-        "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\renat\\proyecto_moviles\\AppEspLamp\\obj\\",
+        "projectPath": "c:\\Users\\DELL\\Downloads\\proyecto-smi-2023-ii-u1-appcrafters-main\\AppEspLamp\\AppEspLamp.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\DELL\\Downloads\\proyecto-smi-2023-ii-u1-appcrafters-main\\AppEspLamp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0-android",

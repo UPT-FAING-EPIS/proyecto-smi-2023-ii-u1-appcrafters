@@ -7,6 +7,11 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private async void OnRegistroLabelTapped(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync("//RegistroCuentaPage");
+    }
 	
 }
 

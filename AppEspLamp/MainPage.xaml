@@ -33,11 +33,16 @@
         </StackLayout>
 
         <Button Text="Inicia Sesion" WidthRequest="150" CornerRadius="20" HorizontalOptions="Center" BackgroundColor="#0792ef" />
-        
+
         <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Center">
-            <Label Text="Olvidaste tu contraseña?" TextColor="Gray" />
-            <Label Text="Recuperar" TextColor="#50b3f2" />
+            <Label Text="No tienes una cuenta?" TextColor="Gray" />
+            <Label Text="Registrate..!" TextColor="#50b3f2">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnRegistroLabelTapped" />
+                </Label.GestureRecognizers>
+            </Label>
         </StackLayout>
+
     </VerticalStackLayout> 
 
 </ContentPage>

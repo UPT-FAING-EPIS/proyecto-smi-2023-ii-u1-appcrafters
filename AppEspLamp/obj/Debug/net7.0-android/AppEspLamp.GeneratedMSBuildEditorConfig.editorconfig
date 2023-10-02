@@ -12,33 +12,39 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = AppEspLamp
-build_property.ProjectDir = c:\Users\renat\proyecto_moviles\AppEspLamp\
+build_property.ProjectDir = c:\Users\DELL\Downloads\proyecto-smi-2023-ii-u1-appcrafters-main\AppEspLamp\
 
-[c:/Users/renat/proyecto_moviles/AppEspLamp/App.xaml]
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[c:/Users/renat/proyecto_moviles/AppEspLamp/AppShell.xaml]
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[c:/Users/renat/proyecto_moviles/AppEspLamp/MainPage.xaml]
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[c:/Users/renat/proyecto_moviles/AppEspLamp/Resources/Styles/Colors.xaml]
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/RegistroCuentaPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.RegistroCuentaPage.xaml
+build_metadata.AdditionalFiles.TargetPath = RegistroCuentaPage.xaml
+build_metadata.AdditionalFiles.RelativePath = RegistroCuentaPage.xaml
+
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[c:/Users/renat/proyecto_moviles/AppEspLamp/Resources/Styles/Styles.xaml]
+[c:/Users/DELL/Downloads/proyecto-smi-2023-ii-u1-appcrafters-main/AppEspLamp/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AppEspLamp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
