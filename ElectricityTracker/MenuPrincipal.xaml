@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ElectricityTracker.MenuPrincipal"
+             Title="Menu Principal">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Configuración" IconImageSource="dotnet_bot.svg" Clicked="OnConfiguracionClicked" />
+    </ContentPage.ToolbarItems>
+
+    <Grid>
+        <!-- Encabezado -->
+        
+        <Label Text="Bienvenido, elige tu dispositivo" FontSize="20" TextColor="Black" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" VerticalOptions="Center" HeightRequest="550" Padding="20" />
+       
+        
+
+        <!-- Contenido Principal -->
+        <StackLayout Margin="20" Spacing="20">
+            <!-- Lista de Dispositivos -->
+            <ListView ItemsSource="{Binding ListaDeDispositivos}" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="10">
+                                <Image Source="{Binding Icono}" HeightRequest="40" WidthRequest="40" Aspect="AspectFit" />
+                                <Label Text="{Binding Nombre}" VerticalOptions="CenterAndExpand" FontSize="16" TextColor="Black" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <!-- Botón de Agregar Dispositivo -->
+            <Button Text="Agregar Dispositivo" HeightRequest="50" CornerRadius="25" BackgroundColor="#0792ef" TextColor="White" FontSize="18" HorizontalOptions="FillAndExpand" />
+        </StackLayout>
+    </Grid>
+</ContentPage>

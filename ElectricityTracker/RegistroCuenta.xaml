@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ElectricityTracker.RegistroCuenta"
+             Shell.NavBarIsVisible="False"
+             Title="RegistroCuenta">
+
+    <VerticalStackLayout
+        Spacing="25"
+        Padding="30,0"
+        VerticalOptions="Center">
+
+        <VerticalStackLayout Spacing="5" >
+            <Label Text="Registro de cuenta" FontSize="28" TextColor="Black" HorizontalTextAlignment="Center" />
+            <Label Text="Ingrese sus datos" FontSize="18" TextColor="Black" HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                <Image Source="user.png" HeightRequest="20" WidthRequest="20" />
+            </Frame>
+            <Frame HeightRequest="45" Padding="20,0,0,0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                <Entry VerticalOptions="Center" Placeholder="Correo Electrónico" Keyboard="Email" />
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                <Image Source="password.png" HeightRequest="20" WidthRequest="20" />
+            </Frame>
+            <Frame HeightRequest="45" Padding="20,0,0,0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                <Entry VerticalOptions="Center" Placeholder="Contraseña" IsPassword="True" />
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                <Image Source="nombre.png" HeightRequest="30" WidthRequest="30" />
+            </Frame>
+            <Frame HeightRequest="45" Padding="20,0,0,0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                <Entry VerticalOptions="Center" Placeholder="Nombre" IsPassword="True" />
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                <Image Source="apellido.png" HeightRequest="30" WidthRequest="30" />
+            </Frame>
+            <Frame HeightRequest="45" Padding="20,0,0,0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                <Entry VerticalOptions="Center" Placeholder="Apellidos" IsPassword="True" />
+            </Frame>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Frame ZIndex="1" HasShadow="True" BorderColor="White" HeightRequest="56" WidthRequest="56" CornerRadius="28">
+                <Image Source="telefono.png" HeightRequest="20" WidthRequest="20" />
+            </Frame>
+            <Frame HeightRequest="45" Padding="20,0,0,0" HasShadow="True" BorderColor="White" HorizontalOptions="FillAndExpand">
+                <Entry VerticalOptions="Center" Placeholder="Telefono" IsPassword="True" />
+            </Frame>
+        </StackLayout>
+
+        <Button Text="Registrarse" WidthRequest="150" CornerRadius="20" HorizontalOptions="Center" BackgroundColor="#0792ef" />
+
+        <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Center">
+            <Label Text="Volver" TextColor="#50b3f2">
+                <Label.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="Volver_al_inicio" />
+                </Label.GestureRecognizers>
+            </Label>
+        </StackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>
