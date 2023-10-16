@@ -6,9 +6,9 @@
 - Valle Bustamante, Gustavo Alonso - 2020066916.<br>
 - Viveros Blanco, Farley Rodrigo Eduardo - 2020066896<br>
 
-## PROYECTO : STREAMFY
+## API-CUENTAS DE STREAMFY
 
-- Streamfy va a hacer un aplicacion de musica donde podras escuchar musica sin comerciales y tendra una interfaz facil de manejar para el usuario.
+- Esta es una api para el proyecto Streamfy donde nos permitira hacer el login y el registro de nuevos usuarios
   
 ## HERRAMIENTAS
 
