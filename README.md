@@ -14,7 +14,7 @@
 
 | SOFTWARE  | 
 | ------------- |
-|Visual Studio con MAUI
+|Visual Studio Community con MAUI
 |Plataforma de Nube
 |Herramientas de Programación y Depuración
 |Herramientas para Desarrollo Móvil
