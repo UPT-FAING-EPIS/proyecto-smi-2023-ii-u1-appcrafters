@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_Streamfy_Cuentas.props" />
+</Project>
